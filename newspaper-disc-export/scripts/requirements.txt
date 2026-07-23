@@ -1,0 +1,5 @@
+img2pdf>=0.6,<1
+pikepdf>=10,<11
+Pillow>=12,<13
+pypdf>=6,<7
+

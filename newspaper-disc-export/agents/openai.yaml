@@ -1,0 +1,4 @@
+interface:
+  display_name: "旧报纸光盘整期 PDF 导出"
+  short_description: "只读扫描旧报纸光盘并无损生成整期PDF、逐盘清单和质量报告"
+  default_prompt: "使用 $newspaper-disc-export 处理下一张光盘，只生成按日期整理的整期 PDF 和本张光盘导出报告。"
